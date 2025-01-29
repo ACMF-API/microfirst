@@ -1,0 +1,28 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "baseName": "microfirst",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": null,
+    "clientPackageManager": null,
+    "clientTheme": null,
+    "creationTimestamp": 1738171945684,
+    "databaseType": "sql",
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.8.0",
+    "jwtSecretKey": "NjgzNWVkMDIzNmU3Njg4YTkxNzhhODBjNzQzZDk3ZWM2MWExMjRhZDdhYjEwYjFlNmQ3YzJkMzNlZGE3NjFmMGQyMTE2YTUzMWM4OTYwYmMxNTA0Y2M2NzA3ZWIzMzlhNzFkNzg4OGM4OGVhMDQ1ZTE3MjY5MDI1NjQxOWM4MTI=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "prodDatabaseType": "mysql",
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "skipClient": true,
+    "skipUserManagement": true,
+    "testFrameworks": null,
+    "websocket": null
+  }
+}
